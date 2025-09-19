@@ -1,0 +1,7 @@
+# Este arquivo lista as bibliotecas Python necessárias para o projeto.
+# Para instalar todas as dependências de uma vez, use o comando:
+# pip install -r requirements.txt
+
+# No momento, nosso script de conversão usa apenas bibliotecas padrão do Python.
+# Quando evoluirmos para uma aplicação web, adicionaremos pacotes aqui, como por exemplo:
+# flask
